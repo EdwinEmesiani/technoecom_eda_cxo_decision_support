@@ -1,0 +1,8 @@
+Project: Technoecom E-Commerce Analytics (EDA & CXO Reporting)
+Engineer building deployable AI systems
+
+Designed and executed a full EDA workflow for a fictional e-commerce platform (Technoecom), analysing revenue by warehouse, seasonality, and coupon impact using Python, pandas, and seaborn.
+
+Produced a CXO-ready HTML/PDF report that translated analytical findings into concrete decisions for warehouse investment and digital expansion.
+
+Structured the notebook and exports to be rerunnable as new data arrives, forming the analytics foundation for future predictive models.
