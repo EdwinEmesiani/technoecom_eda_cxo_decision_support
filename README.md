@@ -63,7 +63,6 @@ Each analysis section ends with “What this means for Technoecom”.
 Exportable report:
 
 Notebook → HTML/PDF for CXO stakeholders.
----
 
 ## 3. Key Features
 Well-structured Jupyter Notebook following a narrative:
