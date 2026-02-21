@@ -41,34 +41,8 @@ Exploratory Analysis Blocks:
 Visuals (plots, tables) + Narrative Insights
         ↓
 CXO-Facing Report (HTML/PDF)
-Key Features
 
-Well-structured Jupyter Notebook following a narrative:
-
-Data overview
-
-Feature understanding
-
-Business-question-centric EDA
-
-Targeted visualisations:
-
-Revenue by warehouse and region
-
-Order and revenue seasonality
-
-Coupon vs satisfaction patterns
-
-Business-aligned commentary:
-
-Each analysis section ends with “What this means for Technoecom”.
-
-Exportable report:
-
-Notebook → HTML/PDF for CXO stakeholders.
-
-# 3. Key Features
-Well-structured Jupyter Notebook following a narrative:
+3. Key Features
 
 Data overview
 
@@ -91,6 +65,11 @@ Each analysis section ends with “What this means for Technoecom”.
 Exportable report:
 
 Notebook → HTML/PDF for CXO stakeholders.
+
+Create environment (example with pip)
+pip install -r requirements.txt
+
+
 
 # 4. Tech Stack
 Language: Python
