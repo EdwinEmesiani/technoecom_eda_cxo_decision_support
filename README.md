@@ -1,7 +1,8 @@
-# technoecom_eda_cxo_decision_support
+> Part of my **deployable AI systems portfolio**. See my [GitHub profile](https://github.com/EdwinEmesiani) for related projects like **HealthyLife Insurance Charge Prediction** and **RAG_10k**.
+## technoecom_eda_cxo_decision_support
 CXO-grade EDA for e-commerce expansion decisions: warehouses, seasonality, coupons, satisfaction.    
 Engineer building deployable AI systems. I design, train, and ship end-to-end data products—from exploratory analysis and feature engineering to production-grade ML APIs with monitoring, drift awareness, and business-aligned outcomes.
-# Technoecom E-Commerce EDA – CXO Decision Support
+## Technoecom E-Commerce EDA – CXO Decision Support
 
 > As an engineer building deployable AI systems, this project is the **exploratory analytics backbone** for Technoecom’s digital transformation decisions.
 
@@ -64,7 +65,7 @@ Exportable report:
 
 Notebook → HTML/PDF for CXO stakeholders.
 
-## 3. Key Features
+# 3. Key Features
 Well-structured Jupyter Notebook following a narrative:
 
 Data overview
@@ -89,7 +90,7 @@ Exportable report:
 
 Notebook → HTML/PDF for CXO stakeholders.
 
-4. Tech Stack
+# 4. Tech Stack
 Language: Python
 
 Data & EDA: pandas, numpy
@@ -98,7 +99,7 @@ Visualisation: matplotlib, seaborn
 
 Reporting: Jupyter Notebook → HTML/PDF
 
-5. How to Run Locally
+# 5. How to Run Locally
 git clone https://github.com//technoecom_eda_cxo_decision_support.git cd technoecom_eda_cxo_decision_support
 
 Create environment (example with pip)
@@ -111,14 +112,14 @@ To export as HTML:
 
 jupyter nbconvert --to html technoecom_project_learner_notebook.ipynb
 
-6. Main Insights (Example)
+# 6. Main Insights (Example)
 Warehouse performance: A small subset of warehouses contributes a disproportionate share of revenue → prime candidates for deeper investment and capacity scaling.
 
 Seasonality: Clear peaks in specific months; marketing campaigns can be aligned to amplify existing demand rather than fighting it.
 
 Coupons & satisfaction: Aggressive couponing increases order volume, but the relationship to satisfaction is nuanced; poorly targeted coupons can erode margins without improving loyalty.
 
-7. Why This Matters (Architect Perspective)
+# 7. Why This Matters (Architect Perspective)
 This project demonstrates the analytics layer of an AI system:
 
 Well-structured EDA to de-risk downstream modelling projects.
@@ -127,10 +128,10 @@ A repeatable analytics pipeline that can be rerun as new data comes in.
 
 Outputs designed for non-technical decision makers, not just data scientists.
 
-8. Repository Structure
+# 8. Repository Structure
 . ├── data/ │ └── technoecom.csv # Source data (if shareable) ├── notebooks/ │ └── technoecom_project_learner_notebook.ipynb ├── reports/ │ └── technoecom_project_report.html ├── requirements.txt └── README.md
 
-9. Possible Next Steps
+# 9. Possible Next Steps
 Extend EDA into predictive models (demand forecasting, coupon uplift).
 
 Connect to a data warehouse (e.g. BigQuery, Snowflake) and schedule EDA runs.
