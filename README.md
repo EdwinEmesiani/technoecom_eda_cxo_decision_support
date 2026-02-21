@@ -1,6 +1,6 @@
 > Part of my **deployable AI systems portfolio**. See my [GitHub profile](https://github.com/EdwinEmesiani) for related projects like **HealthyLife Insurance Charge Prediction** and **RAG_10k**.
 
-## technoecom_eda_cxo_decision_support
+## Technoecom_eda_cxo_decision_support
 CXO-grade EDA for e-commerce expansion decisions: warehouses, seasonality, coupons, satisfaction.    
 Engineer building deployable AI systems. I design, train, and ship end-to-end data products—from exploratory analysis and feature engineering to production-grade ML APIs with monitoring, drift awareness, and business-aligned outcomes.
 
